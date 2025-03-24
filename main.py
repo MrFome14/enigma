@@ -4,7 +4,7 @@ from tkinter import filedialog, messagebox, simpledialog
 from cryptography.fernet import Fernet
 from yadisk import YaDisk
 
-OAuthCode = "y0__xDkjoCcAxifqDUg67vKphI1gJqnCmtW8nWqVfu1qVRkDkhqdw" # Вставьте сюда ключ
+OAuthCode = "" # Вставьте сюда ключ
 
 
 # Шаг 1: Генерация ключа для шифрования
