@@ -2,8 +2,8 @@ import requests
 from urllib.parse import urlencode
 
 # Замените эти значения на ваши данные
-client_id = '5fa4e86709494a16a76745bf66a75cd0'
-client_secret = '57c68e8eed174e86a989de1753f59760'
+client_id = '5fa4e86709494a1872a76745bf66a75cd0'
+client_secret = 'c7tv57tg65b7tgn76rf576y67556'
 
 # Получаем от пользователя код, который он получил после авторизации
 authorization_code = input("Введите полученный код: ")
